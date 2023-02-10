@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Is-Lorca!
+## Welcome to Is-Lorca's profile!
 
  <div>
   <a href="https://github.com/Is-Lorca">
@@ -15,7 +15,7 @@
  <br>
  
   
-## Links das redes sociais:
+## Social Media links:
   
   
 <div> 
