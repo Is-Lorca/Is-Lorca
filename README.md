@@ -22,6 +22,5 @@
   <a href = "mailto:isisloliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isis-oliveira-65b70618b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/Is-Lorca/Is-Lorca/blob/output/github-contribution-grid-snake.svg)
 
 </div>
