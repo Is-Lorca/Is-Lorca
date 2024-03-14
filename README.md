@@ -1,26 +1,9 @@
 ## Welcome to Is-Lorca's profile!
 
- <div>
-  <a href="https://github.com/Is-Lorca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Is-Lorca&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Is-Lorca&layout=compact&langs_count=6&theme=jolly"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
- 
- <br>
- 
-  
-## Social Media links:
-  
-  
-<div> 
-  <a href = "mailto:isisloliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isis-oliveira-65b70618b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Is-Lorca&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=750&fire=EB00AF&background=45%2C000000%2C8300EB&ring=EB03BF&currStreakNum=EBEBEB&sideNums=EBEBEB&sideLabels=EBD903&dates=00EBE1&currStreakLabel=EBD903)](https://git.io/streak-stats)
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Is-Lorca&theme=radical&bg_color=45%2C000000%2C8300EB&&border_radius=5&&border_color=EBEBEB&show_icons=true&icon_color=EBD903&title_color=EB03BF&text_color=EBEBEB&&card_width=200)          ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Is-Lorca&layout=compact&bg_color=45%2C000000%2C8300EB&border_color=EBEBEB&title_color=EB03BF&text_color=EBD903&card_width=310)
+  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Is-Lorca&repo=dio-lab-open-source&bg_color=45%2C000000%2C8300EB&border_color=EBEBEB&show_icons=true&icon_color=EBD903&title_color=EB03BF&text_color=EBEBEB)](https://github.com/Is-Lorca/dio-lab-open-source)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-oliveira-65b70618b/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isislorcaoliveira@gmail.com)
