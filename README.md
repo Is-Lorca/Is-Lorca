@@ -1,8 +1,8 @@
 # Welcome to my profile!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Is-Lorca)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Is-Lorca&theme=omni&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Is-Lorca&theme=radical&bg_color=45%2C000000%2C8300EB&&border_radius=5&&border_color=EBEBEB&show_icons=true&icon_color=EBD903&title_color=EB03BF&text_color=EBEBEB&&card_width=200)          ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Is-Lorca&layout=compact&bg_color=45%2C000000%2C8300EB&border_color=EBEBEB&title_color=EB03BF&text_color=EBD903&card_width=310)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Is-Lorca&theme=omni&bg_color=45%2C000000%2C8300EB&&border_radius=5&&border_color=EBEBEB&show_icons=true&icon_color=EBD903&title_color=EB03BF&text_color=EBEBEB&&card_width=200)          ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Is-Lorca&layout=compact&bg_color=45%2C000000%2C8300EB&border_color=EBEBEB&title_color=EB03BF&text_color=EBD903&card_width=310)
 
 ## Knowledge
 ### Web Development
