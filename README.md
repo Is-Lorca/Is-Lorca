@@ -1,8 +1,12 @@
 # Welcome to my profile!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Is-Lorca&theme=omni&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Is-Lorca&theme=omni&bg_color=45%2C000000%2C8300EB&&border_radius=5&&border_color=EBEBEB&show_icons=true&icon_color=EBD903&title_color=EB03BF&text_color=EBEBEB&&card_width=200)          ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Is-Lorca&layout=compact&bg_color=45%2C000000%2C8300EB&border_color=EBEBEB&title_color=EB03BF&text_color=EBD903&card_width=310)
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+ <img height=600 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=Is-Lorca&theme=omni">
+</a><br><br>
+<a href="https://github.com/Pranesh-2005/convoychat">
+ <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Is-Lorca&theme=omni&hide=stars&show=prs_merged&height=200" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Is-Lorca&theme=omni&langs_count=8" />
+</a>
 
 ## Knowledge
 ### Web Development
