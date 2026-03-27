@@ -5,7 +5,7 @@
 </a><br><br>
 <a href="https://github.com/Pranesh-2005/convoychat">
  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Is-Lorca&theme=omni&hide=stars&show=prs_merged&height=200" />
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Is-Lorca&theme=omni&langs_count=8" />
+  <img height=250 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Is-Lorca&theme=omni&hide=Makefile&langs_count=8" />
 </a>
 
 ## Knowledge
